@@ -1,0 +1,5 @@
+build/
+nvm
+node_modules
+.idea
+.vscode
