@@ -3,3 +3,4 @@ nvm
 node_modules
 .idea
 .vscode
+config/no-commit.js
